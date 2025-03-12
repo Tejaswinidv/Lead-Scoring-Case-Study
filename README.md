@@ -16,6 +16,4 @@ The deliverables include:
   
 This analysis helps the company optimize its lead conversion process by identifying and prioritizing high-potential leads.
 
-[View the Notebook on nbviewer] 
-https://nbviewer.org/github/Shramadugu/Lead_scoring/blob/main/Lead-Scoring.ipynb 
-for better readability.
+
